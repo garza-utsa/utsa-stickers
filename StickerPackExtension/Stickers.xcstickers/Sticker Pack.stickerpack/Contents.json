@@ -1,4 +1,42 @@
 {
+  "stickers" : [
+    {
+      "filename" : "beep-beep-8.sticker"
+    },
+    {
+      "filename" : "beep-beep2-8.sticker"
+    },
+    {
+      "filename" : "birds-up-8.sticker"
+    },
+    {
+      "filename" : "birds-up-hand-8.sticker"
+    },
+    {
+      "filename" : "get-rowdy-8.sticker"
+    },
+    {
+      "filename" : "go-runners-8.sticker"
+    },
+    {
+      "filename" : "like-utsa-8.sticker"
+    },
+    {
+      "filename" : "love-utsa-8.sticker"
+    },
+    {
+      "filename" : "now-forever-8.sticker"
+    },
+    {
+      "filename" : "roadrunner-nation-8.sticker"
+    },
+    {
+      "filename" : "rowdy-body-8.sticker"
+    },
+    {
+      "filename" : "rowdy-circle-8.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
